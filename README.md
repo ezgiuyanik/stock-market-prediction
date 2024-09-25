@@ -23,11 +23,11 @@ This project aims to predict stock market trends using artificial intelligence. 
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/ezgiuyanik/stock-market-prediction.git
    
 2. Navigate to the project directory:
    bash
-   cd your-repository-name
+   cd stock-market-prediction
    
 3. Install the required Python packages:
    bash
@@ -51,9 +51,5 @@ This project aims to predict stock market trends using artificial intelligence. 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Thanks to TÜBİTAK for supporting this project.
-- Special thanks to [any mentors, collaborators, or resources you would like to acknowledge].
