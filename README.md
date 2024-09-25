@@ -1,4 +1,3 @@
-# stock-market-prediction
 # Stock Market Data Prediction Using Artificial Intelligence
 
 ## Overview
