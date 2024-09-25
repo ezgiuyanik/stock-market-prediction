@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dottie": "^2.0.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.2.0",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.22",
+    "nth-check": "^2.1.1",
+    "puppeteer": "^19.11.1",
+    "semver": "^7.5.3",
+    "sequelize": "^6.31.0",
+    "sequelize-cli": "^6.6.0",
+    "webpack": "^5.88.1",
+    "word-wrap": "^1.2.3"
+  }
+}
